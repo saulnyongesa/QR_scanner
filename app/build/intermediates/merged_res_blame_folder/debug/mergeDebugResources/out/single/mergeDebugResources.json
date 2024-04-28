@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/layout_fragment_withdrawal.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/fragment_withdrawal.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/layout_fragment_buygoods.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/fragment_buygoods.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_rounded_button.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_bg1.jpeg.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/bg1.jpeg"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easypay.app-debug-32:/layout_fragment_buygoods.xml.flat",
+        "source": "com.example.easypay.app-main-34:/layout/fragment_buygoods.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_baseline_lock_24.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/layout_fragment_paybill.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/fragment_paybill.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_baseline_home_24.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_baseline_attach_money_24.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_custom_textview.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/custom_textview.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_custome_buttonview.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/custome_buttonview.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_baseline_phone_24.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/baseline_phone_24.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/layout_fragment_profile.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_baseline_person_24.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/menu_bottom_menu.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_custom_edittext.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/custom_edittext.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_bg1.png.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/bg1.png"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_button.png.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/button.png"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_baseline_payment_24.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/baseline_payment_24.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/layout_activity_login.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-debug-32:/drawable_baseline_person_outline_24.xml.flat",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/drawable/baseline_person_outline_24.xml"
+    }
+]

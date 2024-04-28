@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#334A5051</color>
+    <color name="black">#FF000000</color>
+    <color name="info">#00BCD4</color>
+    <color name="purple">#9C27B0</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="BuyGoods">Buy Goods</string>
+    <string name="PayBill">Pay Bill</string>
+    <string name="Widthdraw">Withdraw</string>
+    <string name="app_name">Easy Pay</string>
+    <string name="buy_goods_and_services">BUY GOODS AND SERVICES</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="enter_phone_number_to_proceed">Phone Number</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log out</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="pay">Pay</string>
+    <string name="pay_bills">PAY BILLS</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="proceed">Proceed</string>
+    <string name="profile">Profile</string>
+    <string name="scan_to_pay">SCAN TO PAY</string>
+    <string name="welcome_to_scan_pay">WELCOME</string>
+    <style name="Base.Theme.EasyPay" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EasyPay" parent="Base.Theme.EasyPay"/>
+</resources>

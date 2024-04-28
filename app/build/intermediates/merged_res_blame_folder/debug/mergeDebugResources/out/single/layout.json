@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-mergeDebugResources-31:/layout/fragment_withdrawal.xml",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/fragment_withdrawal.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-mergeDebugResources-31:/layout/fragment_buygoods.xml",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/fragment_buygoods.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-mergeDebugResources-31:/layout/activity_login.xml",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-mergeDebugResources-31:/layout/fragment_profile.xml",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-mergeDebugResources-31:/layout/fragment_paybill.xml",
+        "source": "/home/saul/.gradle/daemon/8.4/com.example.easypay.app-main-34:/layout/fragment_paybill.xml"
+    },
+    {
+        "merged": "com.example.easypay.app-mergeDebugResources-31:/layout/fragment_buygoods.xml",
+        "source": "com.example.easypay.app-main-34:/layout/fragment_buygoods.xml"
+    }
+]
